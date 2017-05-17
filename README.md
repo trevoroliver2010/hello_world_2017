@@ -1,2 +1,3 @@
 # hello_world_2017
-a simple into tutorial to jumpstart learning Github
+a simple intro tutorial to jumpstart learning Github
+made by Oliver
